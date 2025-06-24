@@ -56,11 +56,11 @@ The model was evaluated using the following metrics:
 
 ---
 
-## 🔗 Project Notebook
+## 🔗 Model Link
 
-You can view/download the complete project notebook from the link below:
+You can view/download the complete Model from the link below:
 
-📁 [Water Quality Prediction Notebook](https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=sharing)
+📁 [Water Quality Prediction Model](https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=sharing)
 
 ---
 
